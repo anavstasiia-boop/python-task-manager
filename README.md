@@ -1,5 +1,5 @@
 # Python Task Manager
-A command-line task management application written in Python.
+A command- line task management application written in Python.
 
 ## Overview
 The program allows users to create tasks, assign priorities, mark tasks as completed and view basic task statistics. Task data is saved to a text file so that tasks remain available when the program is restarted.
