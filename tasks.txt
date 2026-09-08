@@ -1,0 +1,25 @@
+read a book,2,False
+Read,3,True
+write,2,False
+Review lecture notes,2,False
+Schedule group meeting,1,True
+Submit lab report,1,True
+Clean desk,3,False
+Update resume,2,False
+Practice presentation,2,False
+Pay phone bill,1,True
+Organize project files,3,False
+Study for final exam,1,False
+Complete coding exercises,2,False
+Read research article,3,False
+Meet academic advisor,1,True
+Prepare exam cheat sheet,2,False
+Finish assignment 3,1,False
+Email professor,2,True
+Prepare presentation slides,1,False
+Buy groceries,3,True
+Go for a run,2,False
+Backup laptop files,3,False
+Study for final exam,1,False
+Test task manager program,2,False
+read,2,False
